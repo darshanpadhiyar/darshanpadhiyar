@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darshan Padhiyar</h1>
 <h3 align="center">Don't be inconsistant about your passion</h3>
 
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=740&t=st=1719319146~exp=1719319746~hmac=bf34f780796eeee059cdf561ebac8a381e5d6004e53b3a6b788902b7c20218a0">
+<img align="right" alt="coding" width="400" src="https://i.postimg.cc/1zpnYT5d/0b7bdbb3c1d648999fafd18609d54c45-1719399169.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshanpadhiyar&label=Profile%20views&color=0e75b6&style=flat" alt="darshanpadhiyar" /> </p>
 
